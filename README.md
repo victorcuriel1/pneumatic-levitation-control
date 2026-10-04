@@ -100,7 +100,7 @@ La incorporación del esquema anti-windup permitió obtener una llegada a la ref
 
 Código del ESP32:
 
-`esp32/main.ino`
+`esp32_main.ino`
 
 
 ## Documentación
